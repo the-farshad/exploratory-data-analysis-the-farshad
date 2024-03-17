@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code
+.vscode/
+
+# .ipynb files
+plot_generator.ipynb
